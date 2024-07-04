@@ -16,6 +16,7 @@ I hope you'll discover some cool tools!
 
 ## Programming
 - [Phind](https://phind.com): For assistance on programming. I often give it stacktraces when i feel lazy and what's great is it's able to understand the issues and provide guidance the get rid of them
+- [Val](https://www.val.town/): Vals are Hosted github gists that are deployed like aws lambas. Useful to deploy a simple cron job or when you need a simple endpoint for an App
 
 ## Writing
 - [Coverview](https://coverview.vercel.app/): To generate cover images for my articles
