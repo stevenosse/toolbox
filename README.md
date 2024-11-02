@@ -15,6 +15,11 @@ I hope you'll discover some cool tools!
 - [Lottiefiles](https://lottiefiles.com/): For animations. I don't have any talent when it comes to motion design or creating animations so i rely heavily on other people's work ><
 
 ## Programming
+### Web
+#### UI Component library
+- [Float UI](https://floatui.com/)
+- [Hyper UI](https://hyperui.dev)
+## Other tools
 - [Phind](https://phind.com): For assistance on programming. I often give it stacktraces when i feel lazy and what's great is it's able to understand the issues and provide guidance the get rid of them
 - [Val](https://www.val.town/): Vals are Hosted github gists that are deployed like aws lambas. Useful to deploy a simple cron job or when you need a simple endpoint for an App
 
