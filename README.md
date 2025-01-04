@@ -25,3 +25,7 @@ I hope you'll discover some cool tools!
 
 ## Writing
 - [Coverview](https://coverview.vercel.app/): To generate cover images for my articles
+
+## Others
+- **Sound effects (royalty free):** 
+  - [NotificationSounds](https://notificationsounds.com/)
